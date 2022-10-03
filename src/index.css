@@ -10,3 +10,21 @@ body {
 .App {
   text-align: center;
 }
+
+.video-info {
+  margin: auto;
+  text-align: center;
+  width: 60%;
+  
+}
+
+.comments-div {
+  margin: auto;
+  text-align: center;
+  width: 60%;
+  padding: 30px;
+}
+
+.comment-user {
+  font-weight: bold;
+}
